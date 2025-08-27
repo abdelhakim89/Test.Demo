@@ -1,4 +1,3 @@
 #Demo
 
-Some C# Implementation scripts for some entry level and intermediate unity problems like handlig camera behaviour 
-and Systems like saving and loading and store system.
+Some C# implementation scripts for entry-level and intermediate Unity problems, such as handling camera behavior and systems like saving/loading and store management.
